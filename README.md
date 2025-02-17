@@ -1,6 +1,7 @@
 # 💼 Ajay Kumar Yadav
 
-![Profile Image](image.png)
+![myportfoliyoimg](https://github.com/user-attachments/assets/a7f06a49-b7ab-4cb6-ab9e-7ca47a7f31c3)
+
 
 ## 👨‍💻 Software Developer | 1+ Years Experience
 
