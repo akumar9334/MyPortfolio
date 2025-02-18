@@ -51,7 +51,8 @@ I am a passionate Software Developer with hands-on experience in building web ap
 ---
 
 ## 📷 Profile Image:
-![Uploading image.png…]()
+![mynewproimg](https://github.com/user-attachments/assets/63d8659a-bcbf-4efb-a167-1564e58f200c)
+
 
 
 ### 📫 Contact:
